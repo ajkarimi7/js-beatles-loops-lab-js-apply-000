@@ -10,6 +10,7 @@ function johnLennonFacts(facts) {
   const arr2 = [];
   
   let i = 0;
-  while (i < facts.length)
+  while (i < facts.length) {
   arr2.push(`${facts[i]}`)
 } return arr2
+}
