@@ -12,5 +12,6 @@ function johnLennonFacts(facts) {
   let i = 0;
   while (i < facts.length) {
     arr2.push(`${facts[i]}!!!`)
+    i++
 }   return arr2
 }
