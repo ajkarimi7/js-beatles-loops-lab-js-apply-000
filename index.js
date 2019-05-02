@@ -20,6 +20,7 @@ function iLoveTheBeatles(num) {
   var arr3 = [];
   do {
     return "I Love the Beatles!"
-    
-  }
+    i++
+  } 
+  while
 }
